@@ -53,7 +53,7 @@ int question(int w,int *h)
 int op;
 if(w==1)
 {
-printf("\nLearn from yesterday, live for today, hope for tomorrow. The important thing is not to stop ____________.’ Fill in the blank to complete this quotation by Albert Einstein.\n 1. Wishing\n 2. Questioning\n 3. Thinking\n ");
+printf("\nLearn from yesterday, live for today, hope for tomorrow. The important thing is not to stop ____________.â€™ Fill in the blank to complete this quotation by Albert Einstein.\n 1. Wishing\n 2. Questioning\n 3. Thinking\n ");
 printf("put your option\t");
 scanf("%d",&op);
 if(op==2)
@@ -87,7 +87,7 @@ printf("incorrect option correct is 3\n");
 }
 if(w==3)
 {
-printf("\n In India, the train Lifeline Express is a…\n 1. Hospital\n 2. Bank\n 3. Primary School\n ");
+printf("\n In India, the train Lifeline Express is aâ€¦\n 1. Hospital\n 2. Bank\n 3. Primary School\n ");
 printf("put your option\t");
 scanf("%d",&op);
 if(op==1)
@@ -154,7 +154,7 @@ printf("incorrect option correct is 3\n");
 }
 if(w==6)
 {
-printf("\n In Alice’s Adventures in Wonderland, which game was played by the Queen of Hearts using hedgehogs as balls?\n 1. Quintet\n 2. Quidditch\n 3. Croquet\n");
+printf("\n In Aliceâ€™s Adventures in Wonderland, which game was played by the Queen of Hearts using hedgehogs as balls?\n 1. Quintet\n 2. Quidditch\n 3. Croquet\n");
 printf("put your option\t");
 scanf("%d",&op);
 if(op==3)
@@ -256,7 +256,7 @@ printf("incorrect option correct is 3\n");
 }
 if(w==12)
 {
-printf("\n Which country was Herodotus referring to when he said: ‘There is no country that possesses so many wonders, nor any, that such a number of works that defy description’?\n 1. Egypt\n 2. China\n 3.Germany\n");
+printf("\n Which country was Herodotus referring to when he said: â€˜There is no country that possesses so many wonders, nor any, that such a number of works that defy descriptionâ€™?\n 1. Egypt\n 2. China\n 3.Germany\n");
 printf("put your option\t");
 scanf("%d",&op);
 if(op==1)
@@ -324,7 +324,7 @@ printf("incorrect option correct is 1\n");
 }
 if(w==16)
 {
-printf("\n What was the pen name of William Sydney Porter?\n 1. Mark Twain\n 2. Oscar Wilde\n 3. O’ Henry\n");
+printf("\n What was the pen name of William Sydney Porter?\n 1. Mark Twain\n 2. Oscar Wilde\n 3. Oâ€™ Henry\n");
 printf("put your option\t");
 scanf("%d",&op);
 if(op==3)
